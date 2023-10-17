@@ -1,0 +1,183 @@
+[
+    {
+        "arabam": "Dacia",
+        "ülke": "Romanya",
+        "kurulus_yil" : 1965,
+        "model": [
+            {
+                "model_adi":"logan",
+                "fiyat": 550000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"d_2000",
+                "fiyat": 550000,
+                "benzinli": true
+            }  
+        ]
+        
+    },
+    {
+        "arabam": "Mercedes",
+        "ülke": "Almanya",
+        "kurulus_yil" : 1920,
+        "model": [
+            {
+                "model_adi":"a_serisi",
+                "fiyat": 650000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"c_serisi",
+                "fiyat": 1000000,
+                "benzinli": true
+            }
+        ]
+        
+    },
+    {
+        "arabam": "Dacia",
+        "ülke": "Romanya",
+        "kurulus_yil" : 1965,
+        "model": [
+            {
+                "model_adi":"logan",
+                "fiyat": 550000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"d_2000",
+                "fiyat": 550000,
+                "benzinli": true
+            }  
+        ]
+        
+    },
+    {
+        "arabam": "Mercedes",
+        "ülke": "Almanya",
+        "kurulus_yil" : 1920,
+        "model": [
+            {
+                "model_adi":"a_serisi",
+                "fiyat": 650000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"c_serisi",
+                "fiyat": 1000000,
+                "benzinli": true
+            }
+        ]
+        
+    },
+    {
+        "arabam": "Dacia",
+        "ülke": "Romanya",
+        "kurulus_yil" : 1965,
+        "model": [
+            {
+                "model_adi":"logan",
+                "fiyat": 550000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"d_2000",
+                "fiyat": 550000,
+                "benzinli": true
+            }  
+        ]
+        
+    },
+    {
+        "arabam": "Mercedes",
+        "ülke": "Almanya",
+        "kurulus_yil" : 1920,
+        "model": [
+            {
+                "model_adi":"a_serisi",
+                "fiyat": 650000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"c_serisi",
+                "fiyat": 1000000,
+                "benzinli": true
+            }
+        ]
+        
+    },
+    {
+        "arabam": "Dacia",
+        "ülke": "Romanya",
+        "kurulus_yil" : 1965,
+        "model": [
+            {
+                "model_adi":"logan",
+                "fiyat": 550000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"d_2000",
+                "fiyat": 550000,
+                "benzinli": true
+            }  
+        ]
+        
+    },
+    {
+        "arabam": "Mercedes",
+        "ülke": "Almanya",
+        "kurulus_yil" : 1920,
+        "model": [
+            {
+                "model_adi":"a_serisi",
+                "fiyat": 650000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"c_serisi",
+                "fiyat": 1000000,
+                "benzinli": true
+            }
+        ]
+        
+    },
+    {
+        "arabam": "Dacia",
+        "ülke": "Romanya",
+        "kurulus_yil" : 1965,
+        "model": [
+            {
+                "model_adi":"logan",
+                "fiyat": 550000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"d_2000",
+                "fiyat": 550000,
+                "benzinli": true
+            }  
+        ]
+        
+    },
+    {
+        "arabam": "Mercedes",
+        "ülke": "Almanya",
+        "kurulus_yil" : 1920,
+        "model": [
+            {
+                "model_adi":"a_serisi",
+                "fiyat": 650000,
+                "benzinli": true
+            },
+            {
+                "model_adi":"c_serisi",
+                "fiyat": 1000000,
+                "benzinli": true
+            }
+        ]
+        
+    }
+
+] 
